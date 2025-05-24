@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Reimu's Dynamic Resolution for Unity Package/Pixelated Camera Showcase
+- path: Assets/Reimu's Dynamic Resolution for Unity Package/Dynamic Resolution Showcase
     Scene.unity
   isLoaded: 1
   isActive: 1
