@@ -1,32 +1,32 @@
 {
   "context": {
-    "projectPath": "/home/reimu/Projects/Unity3D/Reimu-s-Pixelated-Camera-for-Unity3D/Unity Project/Packages",
+    "projectPath": "/home/reimu/Projects/Unity3D/Reimu-s-Dynamic-Resolution-for-Unity3D/Unity Project/Packages",
     "unityVersion": "6000.0.42f1"
   },
   "inputs": [
-    "/home/reimu/Projects/Unity3D/Reimu-s-Pixelated-Camera-for-Unity3D/Unity Project/Packages/manifest.json",
-    "/home/reimu/Projects/Unity3D/Reimu-s-Pixelated-Camera-for-Unity3D/Unity Project/Packages/packages-lock.json",
+    "/home/reimu/Projects/Unity3D/Reimu-s-Dynamic-Resolution-for-Unity3D/Unity Project/Packages/manifest.json",
+    "/home/reimu/Projects/Unity3D/Reimu-s-Dynamic-Resolution-for-Unity3D/Unity Project/Packages/packages-lock.json",
     "/home/reimu/Unity/Hub/Editor/6000.0.42f1/Editor/Data/Resources/PackageManager/BuiltInPackages/BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
+    "com.unity.multiplayer.center@1.0.0": {
+      "name": "com.unity.multiplayer.center",
+      "displayName": "Multiplayer Center",
+      "resolvedPath": "/home/reimu/Projects/Unity3D/Reimu-s-Dynamic-Resolution-for-Unity3D/Unity Project/Library/PackageCache/com.unity.multiplayer.center@f5e57a8bed06",
+      "fingerprint": "f5e57a8bed0637672c58142b1bfd7e6fea03746c",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
     "com.unity.toolchain.linux-x86_64@2.0.10": {
       "name": "com.unity.toolchain.linux-x86_64",
       "displayName": "Toolchain Linux x64",
-      "resolvedPath": "/home/reimu/Projects/Unity3D/Reimu-s-Pixelated-Camera-for-Unity3D/Unity Project/Library/PackageCache/com.unity.toolchain.linux-x86_64@5a6ce31f8a65",
+      "resolvedPath": "/home/reimu/Projects/Unity3D/Reimu-s-Dynamic-Resolution-for-Unity3D/Unity Project/Library/PackageCache/com.unity.toolchain.linux-x86_64@5a6ce31f8a65",
       "fingerprint": "5a6ce31f8a65b8bae16857cfbdc108c58cdd34f9",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.10",
       "source": "registry",
-      "testable": false
-    },
-    "com.unity.ugui@2.0.0": {
-      "name": "com.unity.ugui",
-      "displayName": "Unity UI",
-      "resolvedPath": "/home/reimu/Projects/Unity3D/Reimu-s-Pixelated-Camera-for-Unity3D/Unity Project/Library/PackageCache/com.unity.ugui@49a1e1f62ffb",
-      "fingerprint": "49a1e1f62ffb8371b68326fa02040920b9fad927",
-      "editorCompatibility": "2019.2.0a1",
-      "version": "2.0.0",
-      "source": "builtin",
       "testable": false
     },
     "com.unity.modules.accessibility@1.0.0": {
@@ -304,7 +304,7 @@
     "com.unity.sysroot@2.0.10": {
       "name": "com.unity.sysroot",
       "displayName": "Sysroot Base",
-      "resolvedPath": "/home/reimu/Projects/Unity3D/Reimu-s-Pixelated-Camera-for-Unity3D/Unity Project/Library/PackageCache/com.unity.sysroot@7bbbb9339c14",
+      "resolvedPath": "/home/reimu/Projects/Unity3D/Reimu-s-Dynamic-Resolution-for-Unity3D/Unity Project/Library/PackageCache/com.unity.sysroot@7bbbb9339c14",
       "fingerprint": "7bbbb9339c143f6fbccaeb0a52c77b9217b35a71",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.10",
@@ -314,7 +314,7 @@
     "com.unity.sysroot.linux-x86_64@2.0.9": {
       "name": "com.unity.sysroot.linux-x86_64",
       "displayName": "Sysroot Linux x64",
-      "resolvedPath": "/home/reimu/Projects/Unity3D/Reimu-s-Pixelated-Camera-for-Unity3D/Unity Project/Library/PackageCache/com.unity.sysroot.linux-x86_64@1998d1c7730e",
+      "resolvedPath": "/home/reimu/Projects/Unity3D/Reimu-s-Dynamic-Resolution-for-Unity3D/Unity Project/Library/PackageCache/com.unity.sysroot.linux-x86_64@1998d1c7730e",
       "fingerprint": "1998d1c7730e48fa49f28d983fececfc9cbd970b",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.9",
