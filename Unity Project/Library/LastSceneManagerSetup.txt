@@ -1,6 +1,0 @@
-sceneSetups:
-- path: Assets/Reimu's Dynamic Resolution for Unity Package/Dynamic Resolution Showcase
-    Scene.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
